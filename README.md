@@ -49,4 +49,4 @@ Each build defines a *preprocessor directive* macro, FMOD_D or WWISE_D that thro
 
 ## Further work
 
-... Virtual voices states and more...
+... Virtual voices states and more... a step-by-step tutorial [blogpost](https://robertogrilli.home.blog/audio_blog/)
