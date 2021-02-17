@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A7DD31F6-9FE0-485E-BA69-6DD2A661E959}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{A7DD31F6-9FE0-485E-BA69-6DD2A661E959}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="SFX_Test" ID="{FC6CBE8B-5CEB-4ADC-A238-6A042BB44255}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_SFX_Accordion" ID="{069F2883-15A4-406F-B737-7D009BEAAB2B}" WorkUnitID="{659D5BAE-1D9E-4604-A6B8-A7179999F0AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SFX_DoorLock" ID="{D9F1C106-A509-4283-A29D-9FBDD396F9D2}" WorkUnitID="{659D5BAE-1D9E-4604-A6B8-A7179999F0AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SFX_AlienGun_Fire" ID="{BE83101D-16D6-4291-AF5E-74A3ACE195D8}" WorkUnitID="{659D5BAE-1D9E-4604-A6B8-A7179999F0AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Start_SFX_Wind_Long" ID="{ED9E2F96-EF9B-4871-823E-B65AC9FA5A49}" WorkUnitID="{659D5BAE-1D9E-4604-A6B8-A7179999F0AF}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

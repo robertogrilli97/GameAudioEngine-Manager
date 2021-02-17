@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	268479498	Play_SFX_AlienGun_Fire			\Default Work Unit\SFX\Play_SFX_AlienGun_Fire	
+	341883507	Play_SFX_DoorLock			\Default Work Unit\SFX\Play_SFX_DoorLock	
+	2260433585	Start_SFX_Wind_Long			\Default Work Unit\SFX\Start_SFX_Wind_Long	
+	3551702896	Play_SFX_Accordion			\Default Work Unit\SFX\Play_SFX_Accordion	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	108563596	SFX_AlienGun_Fire	Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\.cache\Mac\SFX\SFX_AlienGun_Fire_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX_Tests\SFX_AlienGun_Fire		43740
+	331286450	SFX_DoorLock	Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\.cache\Mac\SFX\SFX_DoorLock_0AC486AC.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX_Tests\SFX_DoorLock		95044
+	531738508	SFX_Wind_Long	Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\.cache\Mac\SFX\SFX_Wind_Long_4C6CA905.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX_Tests\SFX_Wind_Long		7884056
+	1065780508	SFX_Accordion	Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\.cache\Mac\SFX\SFX_Accordion_60097B42.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX_Tests\SFX_Accordion		468576
+

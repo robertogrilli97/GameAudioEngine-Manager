@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>/Users/bob/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/CppProjects/AudioEngine_Test/AKWAAPI_Test/</ProjectRoot>
+		<SourceFilesRoot>/Users/bob/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/CppProjects/AudioEngine_Test/AKWAAPI_Test/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/bob/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/CppProjects/AudioEngine_Test/AKWAAPI_Test/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/bob/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/CppProjects/AudioEngine_Test/AKWAAPI_Test/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2953616821">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3018450665" Language="SFX" Hash="2054410477">
+			<ObjectPath>\SoundBanks\Default Work Unit\SFX_Test</ObjectPath>
+			<ShortName>SFX_Test</ShortName>
+			<Path>SFX_Test.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3551702896" Name="Play_SFX_Accordion" ObjectPath="\Events\Default Work Unit\SFX\Play_SFX_Accordion">
+					<IncludedMemoryFiles>
+						<File Id="1065780508" Language="SFX">
+							<ShortName>SFX_Accordion.wav</ShortName>
+							<Path>SFX/SFX_Accordion_60097B42.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="268479498" Name="Play_SFX_AlienGun_Fire" ObjectPath="\Events\Default Work Unit\SFX\Play_SFX_AlienGun_Fire">
+					<IncludedMemoryFiles>
+						<File Id="108563596" Language="SFX">
+							<ShortName>SFX_AlienGun_Fire.wav</ShortName>
+							<Path>SFX/SFX_AlienGun_Fire_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="341883507" Name="Play_SFX_DoorLock" ObjectPath="\Events\Default Work Unit\SFX\Play_SFX_DoorLock">
+					<IncludedMemoryFiles>
+						<File Id="331286450" Language="SFX">
+							<ShortName>SFX_DoorLock.wav</ShortName>
+							<Path>SFX/SFX_DoorLock_0AC486AC.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2260433585" Name="Start_SFX_Wind_Long" ObjectPath="\Events\Default Work Unit\SFX\Start_SFX_Wind_Long">
+					<IncludedMemoryFiles>
+						<File Id="531738508" Language="SFX">
+							<ShortName>SFX_Wind_Long.wav</ShortName>
+							<Path>SFX/SFX_Wind_Long_4C6CA905.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

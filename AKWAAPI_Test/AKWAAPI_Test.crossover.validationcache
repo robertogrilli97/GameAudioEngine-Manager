@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Virtual Acoustics\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Triggers\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Switches\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\States\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\SoundBanks\Default Work Unit.wwu" DateLow="1613495031" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Queries\Factory Queries.wwu" DateLow="1608649552" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Queries\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Presets\Factory Spatial Audio.wwu" DateLow="1608649552" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Presets\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Modulators\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Mixing Sessions\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1612384176" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Game Parameters\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Events\Default Work Unit.wwu" DateLow="1613494541" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Effects\Factory Effects.wwu" DateLow="1608649552" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Effects\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1608649552" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Conversion Settings\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Control Surface Sessions\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Audio Devices\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Attenuations\Default Work Unit.wwu" DateLow="1612384177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\AKWAAPI_Test.wproj" DateLow="1613068014" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\AKWAAPI_Test.crossover.wsettings" DateLow="1613495217" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\CppProjects\AudioEngine_Test\AKWAAPI_Test\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1613494132" DateHigh="0"/>
+</ValidationCache>

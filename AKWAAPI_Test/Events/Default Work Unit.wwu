@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{659D5BAE-1D9E-4604-A6B8-A7179999F0AF}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{659D5BAE-1D9E-4604-A6B8-A7179999F0AF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="SFX" ID="{6E6DA823-719C-4106-ABA9-76D7F867587B}" ShortID="957359881">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="1"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_SFX_AlienGun_Fire" ID="{BE83101D-16D6-4291-AF5E-74A3ACE195D8}">
+							<ChildrenList>
+								<Action Name="" ID="{3CE02A56-FD71-4E52-8BFC-8D72D7403529}" ShortID="313071992">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_AlienGun_Fire" ID="{7BFB5685-CE3C-4815-AAFF-C7314B766220}" WorkUnitID="{5D8C0376-6EB3-432B-9F0B-1A0DEA98C646}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Start_SFX_Wind_Long" ID="{ED9E2F96-EF9B-4871-823E-B65AC9FA5A49}">
+							<ChildrenList>
+								<Action Name="" ID="{31759130-DEAF-4CDE-910F-C51E3A4028C0}" ShortID="523498316">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="2"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_Wind_Long" ID="{4FBC637F-D136-4A01-AB3D-6AEF482FE691}" WorkUnitID="{5D8C0376-6EB3-432B-9F0B-1A0DEA98C646}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_SFX_Accordion" ID="{069F2883-15A4-406F-B737-7D009BEAAB2B}">
+							<ChildrenList>
+								<Action Name="" ID="{9913B464-8370-496D-AD66-80A0B2DCA99D}" ShortID="568567037">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="1"/>
+										<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_Accordion" ID="{26D1287C-0648-4D60-846F-CF05C85CC591}" WorkUnitID="{5D8C0376-6EB3-432B-9F0B-1A0DEA98C646}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_SFX_DoorLock" ID="{D9F1C106-A509-4283-A29D-9FBDD396F9D2}">
+							<ChildrenList>
+								<Action Name="" ID="{C183608A-5A65-4779-9B35-A7C57340E457}" ShortID="929051087">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_DoorLock" ID="{7DC20B8D-269B-4683-988A-8DE0AAD02EA3}" WorkUnitID="{5D8C0376-6EB3-432B-9F0B-1A0DEA98C646}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
