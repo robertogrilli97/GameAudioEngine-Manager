@@ -5,7 +5,7 @@
 Hello there! In this project, I wrapped the FMOD and Wwise APIs each in their own **Audio Manager** class.
 
 Both [FMOD](https://fmod.com/resources/documentation-api?version=2.1&page=welcome.html) and the [Wwise](https://www.audiokinetic.com/fr/library/edge/?source=SDK&id=index.html) APIs provide their audio engine; the audio manager controls the calls to that engine.
-The project shows the default implementation of the APIs and provides an environment in which to test the audio engines.
+The project shows the default implementation of the APIs and provides an environment in which to test each audio engine.
 
 ## Information
 
