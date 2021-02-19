@@ -55,6 +55,8 @@ Each build defines a *preprocessor directive* macro (**FMOD_D** or **WWISE_D**) 
 
 ## References
 
+Gouveia, D. (2013). *Getting Started with C++ Audio Programming for Game Development*. Packt Publishing.
+
 Somberg, G. (2015). *How to Build an Audio Engine*. GDC2015. Available at: [link](https://www.gdcvault.com/play/1022060/How-to-Write-an-Audio) [Accessed 02/2021].
 
 Somberg, G. (2017). *Game Audio Programming: Principles and Practices*. CRC Press.
