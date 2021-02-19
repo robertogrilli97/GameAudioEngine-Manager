@@ -33,18 +33,18 @@ From within the project directory:
 
 ### FMOD
 ```
-cmake -S . -B cmake-build-debug_fmod -DFMOD_D=1
-cd cmake-build-debug_fmod
-make
-./GameAudioEngine 
+$ cmake -S . -B cmake-build-debug_fmod -DFMOD_D=1
+$ cd cmake-build-debug_fmod
+$ make
+$ ./GameAudioEngine 
 ```
 
 ### WWISE
 ```
-cmake -S . -B cmake-build-debug_wwise -DWWISE_D=1 
-cd cmake-build-debug_wwise
-make 
-./GameAudioEngine 
+$ cmake -S . -B cmake-build-debug_wwise -DWWISE_D=1 
+$ cd cmake-build-debug_wwise
+$ make 
+$ ./GameAudioEngine 
 ```
 
 Each build defines a *preprocessor directive* macro (**FMOD_D** or **WWISE_D**) that through conditional inclusions includes/excludes parts of the code for the corresponding build.
